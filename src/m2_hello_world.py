@@ -1,6 +1,5 @@
 print('Hello, World')
-print('Python is cool')
-print(3607 * 34227)
+
 
 ########################################################################
 # This line is a COMMENT -- a note to human readers of this file.
@@ -36,7 +35,7 @@ print(3607 * 34227)
 #        by clicking on the blue bars.  ** Try that now. **
 #
 #     b. When you have completed a TO DO, you should change the word
-#          TODO
+#          TO DO
 #        to
 #          DONE.
 #        Try it now on line 16 above, and note that its blue bar on
@@ -61,7 +60,7 @@ print(3607 * 34227)
 #   Look at the Console to be sure that your string printed as expected.
 #
 ########################################################################
-
+print('Python is cool')
 ########################################################################
 #
 # DONE: 4.
@@ -75,7 +74,7 @@ print(3607 * 34227)
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ########################################################################
-
+print(3607 * 34227)
 ########################################################################
 #
 # DONE: 5.
